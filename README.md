@@ -23,3 +23,16 @@ Mandatory CL resources:
 - http://quickdocs.org/
 - https://lispcookbook.github.io/cl-cookbook/
 - https://github.com/CodyReichert/awesome-cl
+
+Community:
+
+- https://www.reddit.com/r/Common_Lisp
+- http://www.lispforum.com/
+- `#lisp` on freenode
+
+To ask questions:
+
+- https://www.reddit.com/r/learnlisp/
+- https://stackoverflow.com/questions/tagged/common-lisp
+
+and the above.
